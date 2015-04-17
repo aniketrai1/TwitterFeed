@@ -1,5 +1,8 @@
 C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\bin\TwitterFeed.dll
 C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\bin\TwitterFeed.pdb
-C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.csprojResolveAssemblyReference.cache
+C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\bin\Newtonsoft.Json.dll
+C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\bin\Newtonsoft.Json.pdb
+C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\bin\Newtonsoft.Json.xml
 C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.dll
 C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.pdb
+C:\Users\computer\Documents\Visual Studio 2012\Projects\TwitterFeed\TwitterFeed\obj\Debug\TwitterFeed.csprojResolveAssemblyReference.cache
